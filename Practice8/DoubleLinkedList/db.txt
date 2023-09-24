@@ -1,0 +1,25 @@
+1,Monty,Rebotazo,Legendario,Normal
+2,Richie,Shiny,Epico,Tazos dobles
+3,Katto,Classic,Raro,Tazos triples
+4,Roff,Gigametalix,Poco comun,Turno doble
+5,Sultan,Metalix,Comun,Normal
+6,Blaze,Rebotazo,Raro,Tazos dobles
+7,Luna,Classic,Epico,Turno doble
+8,Nero,Gigametalix,Legendario,Normal
+9,Flare,Metalix,Raro,Tazos triples
+10,Terra,Rebotazo,Comun,Turno doble
+11,Neo,Shiny,Legendario,Tazos dobles
+12,Aqua,Megametalix,Raro,Normal
+13,Volt,Gigametalix,Comun,Tazos triples
+14,Zen,Metalix,Epico,Turno doble
+15,Rave,Classic,Comun,Normal
+16,Chaos,Megaclassic,Poco comun,Tazos dobles
+17,Crystal,Rebotazo,Raro,Turno doble
+18,Galaxy,Shiny,Comun,Normal
+19,Gravity,Gigametalix,Legendario,Tazos triples
+20,Meteor,Metalix,Poco comun,Turno doble
+21,Phoenix,Megametalix,Epico,Normal
+22,Blizzard,Classic,Raro,Tazos dobles
+23,Ninja,Gigametalix,Comun,Turno doble
+24,Shadow,Metalix,Legendario,Normal
+25,Mystic,Crystal,Epico,Tazos triples
