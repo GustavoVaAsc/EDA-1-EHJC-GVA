@@ -1,0 +1,100 @@
+1,I Don't Wanna Go On With You Like That,Elton John,Rock,4:34
+2,Hot Stuff,Kygo & Donna Summer,Electrónica,3:16
+3,I Was Made For Lovin You,KISS,Rock,3:58
+4,Party All the Time,Eddie Murphy,Rock alternativo,4:10
+5,Infinity,James Young,Rock alternativo,3:58
+6,Beber de tus sangre(versión sinfónico),Kazz(Los Amantes de Lola),Rock,6:19
+7,Self Control,Laura Branigan,Pop,5:07
+8,[I Just] Died In Your Arms,Cutting Crew,Rock,4:40
+9,Morir de amor,Los Ángeles Azules & Miguel Bosé,Cumbia,3:38
+10,The Reason,Hoobastank,Rock alternativo,4:11
+11,Never Gonna Give You Up,Rick Astley,Pop,3:32
+12,Give It Up,KC & Sunshine Band,Pop,4:25
+13,Holding Out For A Hero,Bonnie Tyler,Pop,4:44
+14,Charisma,KISS,Rock,4:26
+15,Stereo Love,Edward Maya & Vika Jigulina, Electrónica,4:13
+16,Man! I Feel Like A Woman,Shania Twain,Pop,3:55
+17,Billie Jean,Michael Jackson,Pop,4:56
+18,Welcome To The Jungle,Guns N´Roses,Rock,4:34
+19,Come as You Are,Nirvana,Rock,3:38
+20,Stayin' Alive,Bee Gees,Pop,4:10
+21,Rock & Roll All Nite,KISS,Rock,4:02
+22,Blinding Ligths,The Weeknd,Electrónica,3:23
+23,Firework,Katy Perry,Pop,3:53
+24,Karma Chameleon,Culture Club,Electrónica,3:58
+25,Clocks,Coldplay,Rock alternativo,4:16
+26,Bittersweet Symphony,The Verve,Electrónica,5:57
+27,Hombre Lobo En Paris,La Unión,Rock alternativo,3:57
+28,We Didn't Start the Fire,Billy Joel,Rock alternativo,4:05
+29,Wake Me Up,Avicii,Electrónica,4:33
+30,Square Rooms,Al Corley,Electrónica,3:42
+31,Your Love,The Outfield,Rock,4:13
+32,Wake Me Up Before You Go-GO,Wham!,Pop,3:53
+33,Prayer in C,Lilly Wood & The Prick,Electrónica,3:14
+34,Rhythm of the Night,Corona X,Electrónica,3:47
+35,Let Me Love You,DJ Snake & Justin Bieber,Electrónica,3:26
+36,Sugar,Maroon 5,Rock alternativo,5:01
+37,Nunca es Suficiente,Los Ángeles Azules & Natalia Lafourcade,Cumbia,4:47
+38,Give Me Everything,Pitbull,Electrónica,4:26
+39,On the Radio,Donna Summer,Pop,4:02
+40,On The Floor,Jennifer Lopez,Electrónica,4:45
+41,Sadeness,Enigma,Electrónica,4:17
+42,Maneater,Hall & Oates, Rock, 4:25
+43,No Time To Die, Billie Eilish,pop,3:59
+44,Wind Of Change,Scorpions,Rock,4:43
+45,Dancing In the Dark,Bruce Springsteen,Pop,4:00
+46,Rolling in the Deep,Adele,Pop,3:48
+47,Beliver,Imagine Dragons,Rock alternativo,3:37
+48,Zombie,The Cranberries,Rock,4:36
+49,Eyes Without A Face,Billy Idol,Rock,4:58
+50,Burning Heart,Survivor,Rock,3:50
+51,Something In The Way,Nirvana,Rock,3:51
+52,Back In Black,AC/DC,Rock,4:16
+53,One,Metallica,Metal,7:45
+54,Personal Jesus,Depeche Mode,rock alternativo,4:55
+55,Enjoy the Silence,Depeche Mode,rock alternativo,4:14
+56,Sweet Harmony,The Beloved,Electrónica,5:13
+57,Living On My Own,Freddie Mercury,Electrónica,3:50
+58,Shout,Tears For Fears,rock,6:32
+59,Far From Over,Frank Stallone,Rock,3:15
+60,That's the Way(I Like It),KC & Sunshine Band,pop,5:09
+61,Here I Go Again,Whitesnake,Rock3:52
+62,Burning Love,Elvis Presley,Rock,2:56
+63,Whiskey In The Jar,Metallica,Metal,5:04
+64,Otro Día Más Sin Verte,Jon Secada,Pop,5:27
+65,Young Turks,Rod Stewart,Pop,4:38
+66,Insight,Depeche Mode,rock alternativo,6:26
+67,Children,Robert Miles,Electrónica,4:03
+68,Way down We GO,KALEO,Pop,3:33
+69,La Chica de Humo,Emmanuel,Rock,5:31
+70,Como Quien Pierde Una Estrella,Alejandro Fernández,Regional,3:44
+71,Duele EL Amor,Aleks Syntek & Ana Torroja,Pop,4:36
+72,Bailando,Enrique Iglesias,Bachata,4:47
+73,Aire Soy,Miguel Bosé & Ximena Sariñana,Pop,4:03
+74,Las Manos Quietas,Carlos Pérez,Rock,3:42
+75,Sin aliento,Danza Invisible,Rock,4:57
+76,De Música Ligera,Soda Stereo,Rock,3:32
+77,Persiana Americana,Soda Stereo,Rock,4:55
+78,Nothing Else Matters,Metallica,Metal,6:28
+79,Another Love,Tom Odell,Pop,4:07
+80,Save Your Tears,The Weeknd,Pop,4:08
+81,Ice Ice Baby,Vanilla Ice,Rap,3:57
+82,Gangsta's Paradise,Coolio,Rap,4:16
+83,What Is Love,Haddaway,Electrónica,4:30
+84,Take On Me,a-ha,Rock,4:03
+85,Africa,Toto,Rock,4:31
+86,Eye Of The Tiger,Survivor,Rock,4:04
+87,Careless Whisper,George Michael,Pop,5:00
+88,Losing My Religion,R.E.M,Rock,4:54
+89,Like a Stone,Audioslave,Rock alternativo,5:01
+90,Cold Heart,Elton John & Dua Lipa,Pop,4:14
+91,Dynamite,BTS,K-pop,3:43
+92,FAKE LOVE,BTS,K-Pop,5:18
+93,My Universe,Coldplay & BTS,K-Pop,4:42
+94,Pink Venom,BlackPink,K-pop,3:13
+95,Kill This Love,BlackPink,K-pop,3:13
+96,How You Like That,BlackPink,K-pop,3:03
+97,Yo No Me Llamo Javier,Los Toreros Muertos,4:21
+98,Don't Let Me Down,The Beatles,Rock,3:31
+99,Smooth,Santana,Rock,4:58
+100,Gimme Shelter,The Rolling Stones,Rock,4:30
